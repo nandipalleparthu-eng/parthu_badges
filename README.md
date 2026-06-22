@@ -5,3 +5,9 @@ yoo so excited
 Anytime to anything u want dont fuck about anyone
 review no xcybr7x@gamail.com
 nothing
+<<<<<<< Updated upstream
+=======
+hhiii
+fuckkkkk
+yooooooo
+>>>>>>> Stashed changes
